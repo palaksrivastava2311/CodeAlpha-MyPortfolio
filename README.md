@@ -71,12 +71,10 @@ Portfolio/
 
 ---
 
-## 📸 Preview
-
 <h2>📸 Preview</h2>
 
 <p align="center">
-  <img src="images/preview.png" alt="Portfolio Preview" width="900">
+  <img src="images/preview.png" alt="Portfolio Preview" width="600">
 </p>
 
 ## 📥 Installation
