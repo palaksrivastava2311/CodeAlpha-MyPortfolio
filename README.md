@@ -74,7 +74,7 @@ Portfolio/
 <h2>📸 Preview</h2>
 
 <p align="center">
-  <img src="images/preview.png" alt="Portfolio Preview" width="600">
+  <img src="images/preview.png" alt="Portfolio Preview" width="900">
 </p>
 
 ## 📥 Installation
@@ -82,7 +82,7 @@ Portfolio/
 Clone the repository
 
 ```bash
-git clone https://github.com/palaksrivastava2311/Portfolio.git
+git clone https://github.com/palaksrivastava2311/CodeAlpha-MyPortfolio.git
 ```
 
 Go to the project folder
