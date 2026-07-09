@@ -73,15 +73,11 @@ Portfolio/
 
 ## 📸 Preview
 
-Add screenshots of your portfolio here.
+<h2>📸 Preview</h2>
 
-Example:
-
-```
-images/preview.png
-```
-
----
+<p align="center">
+  <img src="images/preview.png" alt="Portfolio Preview" width="900">
+</p>
 
 ## 📥 Installation
 
